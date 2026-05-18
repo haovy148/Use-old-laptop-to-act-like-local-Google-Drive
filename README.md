@@ -1,9 +1,14 @@
 # Use-old-laptop-to-act-like-local-Google-Drive
 
 
-Hello guys, everyone uses Google Drive with 15gb budget, I luckily have Gemini Pro with its benefits, but It going to expired soon this Oct. So, I want to
+Hello guys, everyone uses Google Drive with 15gb budget, I luckily have Gemini Pro with its benefits, but it going to expired soon this Oct. 
+
+So, I want to
+
 +Build my self a Google Drive home Server!
+
 +Take advantage of my old laptop.
+
 +Can be used for future project like a server for my Apps!
 
 ## SPECS
