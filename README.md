@@ -69,7 +69,7 @@ Now, your main focus is edit .env
 you shall see something like this
 
 ```py
-SEAFILE_SERVER_HOSTNAME=   // for this one, you need to use tailscale and sign up for a IP domain, then copy that domain to here!
+SEAFILE_SERVER_HOSTNAME=   # for this one, you need to use tailscale and sign up for a IP domain, then copy that domain to here!
 SEAFILE_SERVER_PROTOCOL=https
 TIME_ZONE=
 CACHE_PROVIDER=redis
@@ -78,8 +78,8 @@ INIT_SEAFILE_ADMIN_EMAIL=
 INIT_SEAFILE_ADMIN_PASSWORD=
 JWT_PRIVATE_KEY=
 
-// put your detail to that txt file. Read carefully
-// Ctrl + O -> Enter -> Ctrl + X exit 
+#put your detail to that txt file. Read carefully
+#Ctrl + O -> Enter -> Ctrl + X exit 
 ```
 ## Use any browser to signup for Tailscale. 
 
