@@ -14,7 +14,7 @@ I had to open my laptop to change the componpents. My laptop is DELL 3565 AMD A6
 This laptop barely could do anything within Window nor Ubuntu GONME. It is reborn with Lubuntu, also a Ubuntu distro, but for super weak ones.
 
 
-I chooose Lubuntu for the GUI, because I could not do anything with Ubuntu Server, this one merely works on Terminal.
+I chooose Lubuntu for the GUI, because I could not do anything with Ubuntu Server, which merely works on Terminal.
 
 HDD works just fine on Linux, it is cheap, reliable, and large storage will do its job.
 
