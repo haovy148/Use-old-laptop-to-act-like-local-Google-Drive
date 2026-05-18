@@ -12,6 +12,7 @@ I had to open my laptop to change the componpents. My laptop is DELL 3565 AMD A6
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/22d2f509-27ad-46cf-ac85-052c19609d4c" />
 This laptop barely could do anything within Window nor Ubuntu GONME. It is reborn with Lubuntu, also a Ubuntu distro, but for super weak ones.
 
+
 I chooose Lubuntu for the GUI, because I could not do anything with Ubuntu Server, this one merely works on Terminal.
 
 HDD works just fine on Linux, it is cheap, reliable, and large storage will do its job.
@@ -19,8 +20,8 @@ HDD works just fine on Linux, it is cheap, reliable, and large storage will do i
 Also, This Chip is crazily weak, 2 cores and only reach no more than 2.5 GHZ. But for the server, It will be fine.
 
 Note: I have to use this cheap though out my high school years, and until College I started to know Linux. So slow processing isn't a pain in my ass.
+ <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/1a4d0c52-d97a-4dad-92cf-c234650a7ef2" />
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/11cb0cb6-42ed-4bd9-90f5-0cbb45f2338a" />
 
 ## Set UP
 
