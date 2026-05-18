@@ -12,7 +12,7 @@ So, I want to
 +Can be used for future project like a server for my Apps!
 
 ## SPECS
-I had to open my laptop to change the componpents. My laptop is DELL 3565 AMD A6 9200 with 2 x 4GB Ram and 500GB HDD.
+I had to open the interior of the laptop to change the componpents. My laptop is DELL 3565 AMD A6 9200 with 2 x 4GB Ram and 500GB HDD.
 <img width="1160" height="728" alt="image" src="https://github.com/user-attachments/assets/438e2807-3b42-461f-89be-e3e6ffe147f6" />
 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/22d2f509-27ad-46cf-ac85-052c19609d4c" />
