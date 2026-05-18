@@ -8,6 +8,7 @@ Hello guys, everyone uses Google Drive with 15gb budget, I luckily have Gemini P
 
 ## SPECS
 I had to open my laptop to change the componpents. My laptop is DELL 3565 AMD A6 9200 with 2 x 4GB Ram and 500GB HDD.
+<img width="1160" height="728" alt="image" src="https://github.com/user-attachments/assets/438e2807-3b42-461f-89be-e3e6ffe147f6" />
 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/22d2f509-27ad-46cf-ac85-052c19609d4c" />
 This laptop barely could do anything within Window nor Ubuntu GONME. It is reborn with Lubuntu, also a Ubuntu distro, but for super weak ones.
@@ -58,7 +59,45 @@ sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin dock
 sudo docker run hello-world
 docker compose version
 
-
+sudo mkdir -p /opt/seafile
+cd /opt/seafile
 
 
 ```
+Now, your main focus is edit .env
+
+you shall see something like this
+
+```py
+SEAFILE_SERVER_HOSTNAME=   // for this one, you need to use tailscale and sign up for a IP domain, then copy that domain to here!
+SEAFILE_SERVER_PROTOCOL=https
+TIME_ZONE=
+CACHE_PROVIDER=redis
+
+INIT_SEAFILE_ADMIN_EMAIL=
+INIT_SEAFILE_ADMIN_PASSWORD=
+JWT_PRIVATE_KEY=
+
+// put your detail to that txt file. Read carefully
+// Ctrl + O -> Enter -> Ctrl + X exit 
+```
+## Use any browser to signup for Tailscale. 
+
+Sign up for the first, and second devices. Then, obtain your main IP for hosting the server. Now, your laptops can communicate though Tailscale.
+
+
+## useful start up
+
+```py
+sudo docker compose down && sudo docker compose up -d
+```
+
+This server is extremely light, using around 2GB ram, and light on CPU usage
+
+<img width="1347" height="750" alt="image" src="https://github.com/user-attachments/assets/d805ba94-9c33-46f6-808e-2d92517f0b1f" />
+
+And the uploading time is fast too!
+
+<img width="1771" height="848" alt="image" src="https://github.com/user-attachments/assets/b4844712-d3a6-4fe6-b416-cbc581446eb4" />
+
+
