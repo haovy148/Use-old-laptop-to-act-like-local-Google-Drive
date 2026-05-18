@@ -19,9 +19,18 @@ HDD works just fine on Linux, it is cheap, reliable, and large storage will do i
 
 Also, This Chip is crazily weak, 2 cores and only reach no more than 2.5 GHZ. But for the server, It will be fine.
 
-Note: I have to use this cheap though out my high school years, and until College I started to know Linux. So slow processing isn't a pain in my ass.
+Note: I have to use this 2.5 kg of plastic though out my high school years, and until College I started to know Linux. So slow processing isn't a pain in my ass.
  <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/1a4d0c52-d97a-4dad-92cf-c234650a7ef2" />
 
 
 ## Set UP
+
+So our build here is : Docker -> Seafile -> And TailScale.
+TailScale is a website allows us to reach our website from anywhere. It is basically a free IP. This one easier to resgiter duck.org or netcloud, and it is free!
+
+Seafile will be hosted from our laptop
+
+And Docker is a tool to control the Seafile. It contains containers include Seafile, which has many parts: like the database, web GUI, and server.
+
+So docker just like a script that helps to run all of them at a same time without manually activite them.
 
