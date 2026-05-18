@@ -71,7 +71,7 @@ you shall see something like this
 ```py
 SEAFILE_SERVER_HOSTNAME=   # for this one, you need to use tailscale and sign up for a IP domain, then copy that domain to here!
 SEAFILE_SERVER_PROTOCOL=https
-TIME_ZONE=
+TIME_ZONE= # for example Australia/Sydney
 CACHE_PROVIDER=redis
 
 INIT_SEAFILE_ADMIN_EMAIL=
