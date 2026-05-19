@@ -101,6 +101,16 @@ This server is extremely light, using around 2GB ram, and light on CPU usage
 
 <img width="1347" height="750" alt="image" src="https://github.com/user-attachments/assets/d805ba94-9c33-46f6-808e-2d92517f0b1f" />
 
+
+## HI
+
+```c
+Install TLP: Open your terminal (Ctrl + Alt + T) and run:bashsudo apt update
+sudo apt install tlp tlp-rdw
+Use code with caution.Edit Configuration: Open the TLP configuration file in a text editor like nano:bashsudo nano /etc/tlp.conf
+
+```
+
 And the uploading time is fast too!
 
 <img width="1771" height="848" alt="image" src="https://github.com/user-attachments/assets/b4844712-d3a6-4fe6-b416-cbc581446eb4" />
