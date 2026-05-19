@@ -95,6 +95,12 @@ Sign up for the first, and second devices. Then, obtain your main IP for hosting
 
 ```py
 sudo docker compose down && sudo docker compose up -d
+# or
+cd /opt/seafile
+
+sudo docker compose up -d
+
+
 ```
 
 This server is extremely light, using around 2GB ram, and light on CPU usage
